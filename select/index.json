@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "DECO*27 - ヒバナ feat. 初音ミク",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-01T16:05:49.405318Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HOME",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_HOME_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "DECO*27 ー Ghost Rule feat. Hatsune Miku / ゴーストルール feat. 初音ミク",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_02_DECO_27_ー_Ghost_Rule_feat._Hatsune_Miku___ゴーストルール_feat._初音ミク_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "DECO*27 - ライアーダンス feat. 初音ミク",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_03_DECO_27_-_ライアーダンス_feat._初音ミク_初音ミク.txt"
+    }
+  ]
+}
